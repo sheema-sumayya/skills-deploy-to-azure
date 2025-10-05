@@ -1,3 +1,4 @@
+#trier label refresh
 name: Configure Azure environment
 
 on:
